@@ -1,0 +1,5 @@
+p, admin, /*, *
+
+p, member, /users, GET
+p, member, /users/{id}, GET
+p, member, /users/{id}, PUT
